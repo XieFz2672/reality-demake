@@ -1,5 +1,5 @@
 # Reality Demake
-
+|![before](reality-demake-skill-v1.1.0/Introduce.jpg) 
 > Remake real-world photos as 2004-era game screenshots — not a filter, but a demake.
 > 把现实照片重新建模成 2004 年老游戏截图，不是滤镜，是降模。
 
