@@ -22,8 +22,6 @@ The goal is to make reality feel rebuilt as an old game level.
 
 ## Examples
 
-Add your before/after images to the `examples/` folder.
-
 | Before                                                             | After                                                            |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------- |
 |![before](reality-demake-skill-v1.1.0/examples/example-01-before.jpg)    | ![after](reality-demake-skill-v1.1.0/examples/example-01-after.jpg)        
@@ -128,8 +126,6 @@ MIT License. Free to use, modify, and share with the original copyright and lice
 ---
 
 ## 效果示例
-
-可以把前后对比图放进 `examples/` 文件夹。
 
 | Before                                                             | After                                                            |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------- |
