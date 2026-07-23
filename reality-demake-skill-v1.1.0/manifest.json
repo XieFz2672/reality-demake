@@ -1,0 +1,18 @@
+{
+  "id": "reality-lowpoly-remake",
+  "repository_slug": "reality-demake-skill",
+  "version": "1.1.0",
+  "name": {
+    "zh-CN": "现实太高清了，给它降个模",
+    "en": "Reality Demake"
+  },
+  "description": {
+    "zh-CN": "把现实照片重新建模成 2004 年老游戏截图，不是滤镜，是降模。",
+    "en": "Remake real-world photos as 2004-era game screenshots. This is not a filter—it is a demake."
+  },
+  "author": "Cyber Traveler / 赛博旅者",
+  "license": "MIT",
+  "primary_skill_file": "SKILL.md",
+  "english_skill_file": "SKILL.en.md",
+  "note": "This is a repository metadata file, not an official RED Skill schema."
+}
